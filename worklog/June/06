@@ -1,0 +1,19 @@
+Today
+=====
+
+- Built a dom0 kernel with an empty patch.
+  => uname -r
+
+  building one with LOCALVERSION failed.
+  It compiles but RPM build failed.
+
+- Triaged 2 two tickets.
+
+
+Tomorrow
+========
+
+- Pick a ticket from the Ring0 Kanban list and
+  work on it.
+
+
