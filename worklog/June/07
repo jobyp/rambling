@@ -1,0 +1,22 @@
+Today
+=====
+
+Local build issue resolved (git in Ubuntu 13.04 doesn't play well with
+guilt).
+Built kernel-dom0 for EA-1112.
+
+CA-96634: sles111/TCMultipleVDI: SSH command exited with error (mkfs.ext2 /dev/xvdg)
+Most likely invalid. Couldn't reproduce with the latest EA-1112 build.
+Need to check with David Vrabel before closing this.
+
+CA-104275: Basic installation of Debian Squeeze works.
+Need to extract a better repro procedure from the test.
+Need to look at debian-installer.
+
+Tommorrow
+=========
+
+Reading: Git, guilt, Bash
+LDD Char devices.
+LWN: Kernel locking
+
