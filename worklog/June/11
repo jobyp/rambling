@@ -1,0 +1,19 @@
+Today
+=====
+
+CA-108455: Test case issue. Closed as 'caused by'.
+
+CA-108464: xentrace failed to run. Need further investigation.
+
+Briefly looked at usage of xenalyze.
+
+SLES11 SP1 (EA-1112), submitted a job to reproduce the issue.
+
+Tomorrow
+========
+
+1. Look at xentrace bug.
+2. Investigate bug repro.
+3. Look at extracting lspci-n.out from bugreport from each 
+   machine for better driver testing.
+
