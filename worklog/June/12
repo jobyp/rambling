@@ -1,0 +1,17 @@
+Today
+=====
+
+Tested both SLES11 SP1 and SLES11 SP2 (32-bit).
+Could not reproduce the issue.
+Shall we close this?
+
+Tickets created:
+CA-108895: Console is spammed with "Non-privileged (1) attempt to map I/O space" 
+CA-108890: blkfront: xvda: barrier or flush: disabled.
+
+Tomorrow
+========
+
+I'll test this on SLES 64-bit and perhaps close the issue (??).
+Need to look at xentrace issue.
+
