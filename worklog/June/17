@@ -1,0 +1,14 @@
+Today
+=====
+
+Driver disks for Oxford (Hotfix Bruce).
+https://jira.uk.xensource.com/browse/CP-4928.
+
+Assigned CA-108890 (feature-barrier issue) to storage
+as the problem is in tapdisk.
+
+Tommorrow
+=========
+
+-> Pick a ticket from Ring0 Kanban.
+-> SLES 11 SP1 Multiple VDI (shall I close this?)
