@@ -1,0 +1,17 @@
+Today
+=====
+
+I looked through the xenrt logs for Driver Disk testing
+to make sure things are alright. (Hotfix Roosevelt).
+
+Reading about file system barrier and writeback_cache_control
+https://www.kernel.org/doc/Documentation/block/writeback_cache_control.txt
+
+
+Tommorrow
+=========
+
+-> Look at the triage backlog (QA baggage).
+-> Investigate blktap blkback, blkfront relation.
+-> Read 'Git internals'.
+
